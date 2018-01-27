@@ -9,4 +9,4 @@
 
 * 封面：
 
-    ![](images/cover.jpg)
+![](Images/cover.jpg)
